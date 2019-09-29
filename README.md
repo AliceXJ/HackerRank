@@ -18,3 +18,4 @@ This is a practice for HackerRank Code
 |Warm-up Challenges| Sock Merchant |  [Python](Interview_Preparation_Kit/Warm-up_Challenges/Sock_Merchant.py)  |
 || Counting Valleys |  [Python](Interview_Preparation_Kit/Warm-up_Challenges\CountingValleys.py)  |
 || Jumping on the Clouds |  [Python](Interview_Preparation_Kit/Warm-up_Challenges/Jumping_on_the_Clouds.py)  |
+|| Repeated Stirng |  [Python](Interview_Preparation_Kit/Warm-up_Challenges/Repeated_Stirngs.py)  |
