@@ -1,7 +1,7 @@
 # HackerRank
 This is a practice for HackerRank Code
 
-###30 Days of Code
+### 30 Days of Code
 
 | Problem Name | Solution |
 | --- | --- |
