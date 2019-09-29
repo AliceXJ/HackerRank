@@ -14,6 +14,6 @@ This is a practice for HackerRank Code
 
 || Problem Name | Solution |
 | --- | --- | --- |
-|Warm-up Challenges| Sock Merchant |  [Python](Interview_Preparation_Kit/Warm-up_Challenfes/Sock_Merchant.py)  |
-|| Counting Valleys |  [Python](Interview_Preparation_Kit/Warm-up_Challenfes/CountingValleys.py)  |
-|| Jumping on the Clouds |  [Python](Interview_Preparation_Kit/Warm-up_Challenfes/Jumping_on_the_Clouds.py)  |
+|Warm-up Challenges| Sock Merchant |  [Python](Interview Preparation Kit/Warm-up Challenfes/Sock_Merchant.py)  |
+|| Counting Valleys |  [Python](Interview Preparation Kit/Warm-up Challenfes/CountingValleys.py)  |
+|| Jumping on the Clouds |  [Python](Interview Preparation Kit/Warm-up Challenfes/Jumping_on_the_Clouds.py)  |
