@@ -9,6 +9,7 @@ This is a practice for HackerRank Code
 | Day 2: Operators |  [Python](30_Day_Challenge/Day2_Operators.py)  |
 | Day 3 Intro to Conditional Statements |  [Java](30_Day_Challenge/Day3_if.java), [Python](30_Day_Challenge/Day3_if.py)  |
 | Day 4 Class vs. Instance |  [Java](30_Day_Challenge/Day4_class.java), [Python](30_Day_Challenge/Day4_class.py)  |
+| Day 5 Loops |  [Java](30_Day_Challenge/Day5_loops.java), [Python](30_Day_Challenge/Day5_loops.py)  |
 
 
 ### Interview Preparation Kit
