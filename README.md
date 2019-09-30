@@ -22,3 +22,4 @@ This is a practice for HackerRank Code
 || Repeated String |  [Python](Interview_Preparation_Kit/Warm-up_Challenges/Repeated_String.py)  |
 |Arrays| 2D Array - DS |  [Python](Interview_Preparation_Kit/Arrays/2D_Array_DS.py)  |
 || Left Rotation |  [Python](Interview_Preparation_Kit/Arrays/Left_Rotation.py)  |
+|| New Year Chaos |  [Python](Interview_Preparation_Kit/Arrays/New_Year_Chaos.py)  |
