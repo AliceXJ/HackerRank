@@ -20,3 +20,5 @@ This is a practice for HackerRank Code
 || Counting Valleys |  [Python](Interview_Preparation_Kit/Warm-up_Challenges\CountingValleys.py)  |
 || Jumping on the Clouds |  [Python](Interview_Preparation_Kit/Warm-up_Challenges/Jumping_on_the_Clouds.py)  |
 || Repeated String |  [Python](Interview_Preparation_Kit/Warm-up_Challenges/Repeated_String.py)  |
+|Arrarys| 2D Array - DS.py |  [Python](Interview_Preparation_Kit/Arrays/2D_Array_DS.py)  |
+|| Left Rotation |  [Python](Interview_Preparation_Kit/Arrays/Left_Rotation.py)  |
