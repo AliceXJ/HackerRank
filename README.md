@@ -10,6 +10,11 @@ This is a practice for HackerRank Code
 | Day 3 Intro to Conditional Statements |  [Java](30_Day_Challenge/Day3_if.java), [Python](30_Day_Challenge/Day3_if.py)  |
 | Day 4 Class vs. Instance |  [Java](30_Day_Challenge/Day4_class.java), [Python](30_Day_Challenge/Day4_class.py)  |
 | Day 5 Loops |  [Java](30_Day_Challenge/Day5_loops.java), [Python](30_Day_Challenge/Day5_loops.py)  |
+| Day 6: Let's Review |  [Python](30_Day_Challenge/Day6_Review.py)  |
+| Day 7: Arrays |  [Python](30_Day_Challenge/Day7_Arrays.py)  |
+| Day 8: Dictionaries and Maps |  [Python](30_Day_Challenge/Day8_Dictionaries.py)  |
+| Day 9: Recursion |  [Python](30_Day_Challenge/Day9_Recursion.py)  |
+| Day 10: Binary Numbers |  [Python](30_Day_Challenge/DayT(10)_BinaryNumbers.py)  |
 
 
 ### Interview Preparation Kit
